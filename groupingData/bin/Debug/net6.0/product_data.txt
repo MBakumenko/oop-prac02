@@ -1,0 +1,6 @@
+Apple,Fruits,10
+Beef,Meat,40
+Banana,Fruits,15
+Carrot,Vegetables,5
+Broccoli,Vegetables,25
+Pork,Meat,35

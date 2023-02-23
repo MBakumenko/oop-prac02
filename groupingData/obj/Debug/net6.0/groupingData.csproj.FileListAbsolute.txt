@@ -1,0 +1,15 @@
+C:\Users\МАКСИМ\source\repos\oop-prac02\groupingData\bin\Debug\net6.0\groupingData.exe
+C:\Users\МАКСИМ\source\repos\oop-prac02\groupingData\bin\Debug\net6.0\groupingData.deps.json
+C:\Users\МАКСИМ\source\repos\oop-prac02\groupingData\bin\Debug\net6.0\groupingData.runtimeconfig.json
+C:\Users\МАКСИМ\source\repos\oop-prac02\groupingData\bin\Debug\net6.0\groupingData.dll
+C:\Users\МАКСИМ\source\repos\oop-prac02\groupingData\bin\Debug\net6.0\groupingData.pdb
+C:\Users\МАКСИМ\source\repos\oop-prac02\groupingData\obj\Debug\net6.0\groupingData.csproj.AssemblyReference.cache
+C:\Users\МАКСИМ\source\repos\oop-prac02\groupingData\obj\Debug\net6.0\groupingData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МАКСИМ\source\repos\oop-prac02\groupingData\obj\Debug\net6.0\groupingData.AssemblyInfoInputs.cache
+C:\Users\МАКСИМ\source\repos\oop-prac02\groupingData\obj\Debug\net6.0\groupingData.AssemblyInfo.cs
+C:\Users\МАКСИМ\source\repos\oop-prac02\groupingData\obj\Debug\net6.0\groupingData.csproj.CoreCompileInputs.cache
+C:\Users\МАКСИМ\source\repos\oop-prac02\groupingData\obj\Debug\net6.0\groupingData.dll
+C:\Users\МАКСИМ\source\repos\oop-prac02\groupingData\obj\Debug\net6.0\refint\groupingData.dll
+C:\Users\МАКСИМ\source\repos\oop-prac02\groupingData\obj\Debug\net6.0\groupingData.pdb
+C:\Users\МАКСИМ\source\repos\oop-prac02\groupingData\obj\Debug\net6.0\groupingData.genruntimeconfig.cache
+C:\Users\МАКСИМ\source\repos\oop-prac02\groupingData\obj\Debug\net6.0\ref\groupingData.dll

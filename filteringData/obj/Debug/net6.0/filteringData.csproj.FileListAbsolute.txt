@@ -1,0 +1,15 @@
+C:\Users\МАКСИМ\source\repos\oop-prac02\filteringData\bin\Debug\net6.0\filteringData.exe
+C:\Users\МАКСИМ\source\repos\oop-prac02\filteringData\bin\Debug\net6.0\filteringData.deps.json
+C:\Users\МАКСИМ\source\repos\oop-prac02\filteringData\bin\Debug\net6.0\filteringData.runtimeconfig.json
+C:\Users\МАКСИМ\source\repos\oop-prac02\filteringData\bin\Debug\net6.0\filteringData.dll
+C:\Users\МАКСИМ\source\repos\oop-prac02\filteringData\bin\Debug\net6.0\filteringData.pdb
+C:\Users\МАКСИМ\source\repos\oop-prac02\filteringData\obj\Debug\net6.0\filteringData.csproj.AssemblyReference.cache
+C:\Users\МАКСИМ\source\repos\oop-prac02\filteringData\obj\Debug\net6.0\filteringData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МАКСИМ\source\repos\oop-prac02\filteringData\obj\Debug\net6.0\filteringData.AssemblyInfoInputs.cache
+C:\Users\МАКСИМ\source\repos\oop-prac02\filteringData\obj\Debug\net6.0\filteringData.AssemblyInfo.cs
+C:\Users\МАКСИМ\source\repos\oop-prac02\filteringData\obj\Debug\net6.0\filteringData.csproj.CoreCompileInputs.cache
+C:\Users\МАКСИМ\source\repos\oop-prac02\filteringData\obj\Debug\net6.0\filteringData.dll
+C:\Users\МАКСИМ\source\repos\oop-prac02\filteringData\obj\Debug\net6.0\refint\filteringData.dll
+C:\Users\МАКСИМ\source\repos\oop-prac02\filteringData\obj\Debug\net6.0\filteringData.pdb
+C:\Users\МАКСИМ\source\repos\oop-prac02\filteringData\obj\Debug\net6.0\filteringData.genruntimeconfig.cache
+C:\Users\МАКСИМ\source\repos\oop-prac02\filteringData\obj\Debug\net6.0\ref\filteringData.dll

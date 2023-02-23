@@ -1,0 +1,6 @@
+Ukrainian Employee,305
+Poland Employee,1050
+Belgium Employee,2650
+Bulgarian  Employee,735
+Greece  Employee,1280
+Denmark  Employee,3500

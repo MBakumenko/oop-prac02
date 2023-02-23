@@ -1,0 +1,8 @@
+Stepan Bandera,99
+Volodymyr Zelenskyy,97
+Emmanuel Macron,71
+Borys Johnsonyuk,90
+vladimir putin,-1
+Olaf Sholtz,44
+viktor orban,29
+Joe Biden,88

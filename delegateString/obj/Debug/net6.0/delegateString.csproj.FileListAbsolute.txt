@@ -1,0 +1,15 @@
+C:\Users\МАКСИМ\source\repos\oop-prac02\delegateString\bin\Debug\net6.0\delegateString.exe
+C:\Users\МАКСИМ\source\repos\oop-prac02\delegateString\bin\Debug\net6.0\delegateString.deps.json
+C:\Users\МАКСИМ\source\repos\oop-prac02\delegateString\bin\Debug\net6.0\delegateString.runtimeconfig.json
+C:\Users\МАКСИМ\source\repos\oop-prac02\delegateString\bin\Debug\net6.0\delegateString.dll
+C:\Users\МАКСИМ\source\repos\oop-prac02\delegateString\bin\Debug\net6.0\delegateString.pdb
+C:\Users\МАКСИМ\source\repos\oop-prac02\delegateString\obj\Debug\net6.0\delegateString.csproj.AssemblyReference.cache
+C:\Users\МАКСИМ\source\repos\oop-prac02\delegateString\obj\Debug\net6.0\delegateString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МАКСИМ\source\repos\oop-prac02\delegateString\obj\Debug\net6.0\delegateString.AssemblyInfoInputs.cache
+C:\Users\МАКСИМ\source\repos\oop-prac02\delegateString\obj\Debug\net6.0\delegateString.AssemblyInfo.cs
+C:\Users\МАКСИМ\source\repos\oop-prac02\delegateString\obj\Debug\net6.0\delegateString.csproj.CoreCompileInputs.cache
+C:\Users\МАКСИМ\source\repos\oop-prac02\delegateString\obj\Debug\net6.0\delegateString.dll
+C:\Users\МАКСИМ\source\repos\oop-prac02\delegateString\obj\Debug\net6.0\refint\delegateString.dll
+C:\Users\МАКСИМ\source\repos\oop-prac02\delegateString\obj\Debug\net6.0\delegateString.pdb
+C:\Users\МАКСИМ\source\repos\oop-prac02\delegateString\obj\Debug\net6.0\delegateString.genruntimeconfig.cache
+C:\Users\МАКСИМ\source\repos\oop-prac02\delegateString\obj\Debug\net6.0\ref\delegateString.dll
